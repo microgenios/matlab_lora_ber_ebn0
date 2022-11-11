@@ -2,7 +2,7 @@
 Curva LORa BER x EBN0 e BER x SNR via Simulação em Matlab r2019
 
 
-<pre>
+```matlab
 clear; clc; 
 
 txtD = [];
@@ -164,4 +164,4 @@ ylabel('BER (Bit Error Rate)');
 grid on;
 hold off
 
-</pre>
+```
